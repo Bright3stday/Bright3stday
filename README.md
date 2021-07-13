@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Bright3stday
+- 👀 I’m interested in Economics, Psychology, Philosophy, and General Knowledge as a whole. Love to golf in my free time.
+- 🌱 I’m currently learning JavaScript, Python, and would love to explore more on DLT and AI.
